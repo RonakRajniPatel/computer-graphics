@@ -1,0 +1,12 @@
+# ninja log v5
+0	650	6853339523285193	CMakeFiles/01-more-shapes.dir/01-more-shapes/main.cpp.obj	3fed3a2242103a55
+1	97	6865364534970944	build.ninja	bbfed2080c0f6565
+652	814	6853339524910189	01-more-shapes.exe	154de45e4f56c452
+1	727	6853339657959883	CMakeFiles/02-animation.dir/02-animation/main.cpp.obj	938ee101992b65a4
+727	850	6853339659174879	02-animation.exe	84cf3c99c8362e23
+2	650	6853350915918924	CMakeFiles/03-world-coloring.dir/03-world-coloring/main.cpp.obj	3dcf6c6e0ef207a0
+651	775	6853350917138921	03-world-coloring.exe	923d738cbc17d65
+0	639	6853352781334623	CMakeFiles/04-object-coloring.dir/04-object-coloring/main.cpp.obj	8078cfb3198eeadd
+640	769	6853352782609666	04-object-coloring.exe	ebbad425b04f9ac4
+2	671	6865364590836095	CMakeFiles/03-world-coloring.dir/03-world-coloring/main.cpp.obj	73dd7b3f078b0a64
+671	802	6865364592127430	03-world-coloring.exe	f070ba6c91afeda6

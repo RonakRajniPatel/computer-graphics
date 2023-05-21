@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "assignment04",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "0-base::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-0-base-Debug-475b4ed0677296f3ba0c.json",
+					"name" : "0-base",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-mix-colors::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-mix-colors-Debug-75f5af8f31f27c5ba884.json",
+					"name" : "1-mix-colors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-stick-to-ground::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-stick-to-ground-Debug-8450375f3b437e282c40.json",
+					"name" : "2-stick-to-ground",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-eyes-level::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-eyes-level-Debug-3abbd78c2e8141e7032a.json",
+					"name" : "3-eyes-level",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4-panning::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-panning-Debug-076f3676dc3787d4e5c7.json",
+					"name" : "4-panning",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5-monolith::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-monolith-Debug-52bf778d4dd6b1c74592.json",
+					"name" : "5-monolith",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 3/assignment03/cmake-build-debug",
+		"source" : "C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 3/assignment03"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

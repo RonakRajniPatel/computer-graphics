@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "assignment02",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01-more-shapes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01-more-shapes-Debug-ab8c8d8aaf9c3815721c.json",
+					"name" : "01-more-shapes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02-animation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02-animation-Debug-af7f54b64746a377fe9e.json",
+					"name" : "02-animation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03-world-coloring::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03-world-coloring-Debug-128902b76c4f81b0c1b1.json",
+					"name" : "03-world-coloring",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-object-coloring::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-object-coloring-Debug-87455b1ce1413e3e1625.json",
+					"name" : "04-object-coloring",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 2 V2/cmake-build-debug",
+		"source" : "C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 2 V2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

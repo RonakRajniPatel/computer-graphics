@@ -1,0 +1,3 @@
+C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 5/assignment04/cmake-build-debug/CMakeFiles/temple.dir
+C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 5/assignment04/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 5/assignment04/cmake-build-debug/CMakeFiles/rebuild_cache.dir

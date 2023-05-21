@@ -1,0 +1,6 @@
+C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 2 V2/cmake-build-debug/CMakeFiles/01-more-shapes.dir
+C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 2 V2/cmake-build-debug/CMakeFiles/02-animation.dir
+C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 2 V2/cmake-build-debug/CMakeFiles/03-world-coloring.dir
+C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 2 V2/cmake-build-debug/CMakeFiles/04-object-coloring.dir
+C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 2 V2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Eviny/Documents/KSU Classes/Computer Graphics/Assignment 2 V2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

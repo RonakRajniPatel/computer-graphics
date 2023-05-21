@@ -1,0 +1,14 @@
+# ninja log v5
+3	744	6865637197064966	CMakeFiles/3-eyes-level.dir/3-eyes-level.cpp.obj	2d3dab1f0f1e92ec
+0	853	6865349916469718	CMakeFiles/0-base.dir/0-base.cpp.obj	ef3cb4035de6d230
+855	1064	6865349918545788	0-base.exe	f2b80adf94694d29
+1	156	6877584319966391	build.ninja	d64cdddbef416a3d
+3	730	6865605100822745	CMakeFiles/1-mix-colors.dir/1-mix-colors.cpp.obj	b3c732b8b3957751
+730	892	6865605102436914	1-mix-colors.exe	a53047734f12cd86
+0	773	6865605383232825	CMakeFiles/2-stick-to-ground.dir/2-stick-to-ground.cpp.obj	3b4de26820adf16b
+773	937	6865605384856904	2-stick-to-ground.exe	2f84996461654684
+744	915	6865637198748670	3-eyes-level.exe	248078f2dc3017ae
+2	734	6865674419937975	CMakeFiles/4-panning.dir/4-panning.cpp.obj	3f3a5b2485f9069f
+734	903	6865674421606778	4-panning.exe	b61e35bf3a544d8f
+4	964	6867254314920845	CMakeFiles/5-monolith.dir/5-monolith.cpp.obj	ee6714454ccce485
+964	1280	6867254318034941	5-monolith.exe	c37e0b6fc3e21f91

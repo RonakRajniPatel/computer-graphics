@@ -1,0 +1,1 @@
+Used glad 4.5 with arb-sprite extension and debug

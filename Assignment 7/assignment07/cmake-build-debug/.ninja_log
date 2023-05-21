@@ -1,0 +1,4 @@
+# ninja log v5
+2	109	7063352968441699	build.ninja	f794ef035498f12b
+1	760	6919929874483680	CMakeFiles/temple.dir/temple.cpp.obj	c5476d7d1450c81d
+761	956	6919929876420680	temple.exe	923fe7ecd84e44d6

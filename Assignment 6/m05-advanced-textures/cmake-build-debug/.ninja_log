@@ -1,0 +1,6 @@
+# ninja log v5
+2	736	6905204888494283	CMakeFiles/02-reflecting-object.dir/02-reflecting-object/reflecting-object.cpp.obj	723ed31b2ab846ca
+2	714	6905222785010276	CMakeFiles/01-sky-box.dir/01-sky-box/skybox.cpp.obj	3cd2a503bc7246fc
+714	949	6905222787320272	01-sky-box.exe	e83b5a2bc11a4d5d
+1	132	6905225873899407	build.ninja	a070a5aa9680bb28
+736	917	6905204890274281	02-reflecting-object.exe	17f7033e72b1d883
